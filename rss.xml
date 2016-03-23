@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tiny Computer Hacks]]></title>
-        <description><![CDATA[Tiny Computer Hacks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Tiny computers put to use in RL]]></title>
+        <description><![CDATA[Tiny computers put to use in RL]]></description>
+        <link>https://thegrid.ai/tiny-computer-hacks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 17:17:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 17:31:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tiny-computer-hacks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tiny computers, our inventory</p>]]></description>
+            <link>https://thegrid.ai/tiny-computer-hacks/tiny-computers-our-inventory/index.html</link>
+            <guid isPermaLink="false">4cc3e200-82db-4d69-9f03-50de4b1c8eae</guid>
+            <pubDate>Wed, 23 Mar 2016 17:31:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tiny computers real life hacks]]></title>
             <description><![CDATA[<article><h1>Tiny computers real life hacks</h1><p></p></article>]]></description>
-            <link>undefinedtiny-computers-real-life-hacks/index.html</link>
+            <link>https://thegrid.ai/tiny-computer-hacks/tiny-computers-real-life-hacks/index.html</link>
             <guid isPermaLink="false">14ecd336-f112-4e32-99ee-175dfc1003ae</guid>
             <pubDate>Wed, 23 Mar 2016 17:17:11 GMT</pubDate>
         </item>
