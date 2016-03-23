@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We all need to start somewhere, this is our current inventory. The Rasberries are actually\_"
-datePublished: '2016-03-23T18:34:54.450Z'
-dateModified: '2016-03-23T18:32:51.008Z'
+datePublished: '2016-03-23T18:43:27.503Z'
+dateModified: '2016-03-23T18:42:50.671Z'
 title: 'Tiny computers, our inventory'
 author: []
 sourcePath: _posts/2016-03-23-tiny-computers-our-inventory.md
