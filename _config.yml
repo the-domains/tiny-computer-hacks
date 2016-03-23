@@ -1,0 +1,28 @@
+name: Tiny Computer Hacks
+favicon: null
+layout_spectrum: 0.8148959500249475
+typography_spectrum: 0.6413558917120099
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6233937430661172
+  lightness: 0.7641539201140404
+  saturation: 0.7040023882873356
+  rhythmicContrast: 0.23558064317330718
+purpose: []
