@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'They are small and cheap, but what should you use them for?'
-datePublished: '2016-03-23T18:35:06.587Z'
-dateModified: '2016-03-23T18:30:03.602Z'
+datePublished: '2016-03-23T18:36:20.406Z'
+dateModified: '2016-03-23T18:36:02.477Z'
 title: Tiny computers real life hacks
 author: []
 sourcePath: _posts/2016-03-23-tiny-computers-real-life-hacks.md
