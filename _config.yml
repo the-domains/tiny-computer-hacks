@@ -1,6 +1,6 @@
 name: Tiny Computer Hacks
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.43193
 typography_spectrum: 0.60757
 title: Tiny computers put to use in RL
 cta:
@@ -22,8 +22,8 @@ color:
     - '#4f92e1'
     - '#162232'
     - '#fefcff'
-  brandStrength: 0.6875
-  lightness: 0.7641539201140404
+  brandStrength: 0.5
+  lightness: 0.875
   saturation: 0.7040023882873356
   rhythmicContrast: 0.23558064317330718
 purpose: []
